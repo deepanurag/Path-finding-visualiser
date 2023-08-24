@@ -1,0 +1,13 @@
+.grid {
+    margin: 100px 0 0;
+}
+
+button {
+    font-size: 16px;
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
